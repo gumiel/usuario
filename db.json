@@ -1,11 +1,6 @@
 {
-  "posts": [
-    {
-      "id": 1,
-      "title": "hello"
-    }
-  ],
-  "profile": {
-    "name": "typicode"
-  }
+  "nombres":"usuario",
+  "correo":"usuario@gmail.com",
+  "clave":"123456"
+
 }
